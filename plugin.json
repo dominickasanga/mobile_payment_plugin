@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Mobile",
+  "SystemName": "Payments.Manual",
+  "Version": "2.1",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "dominickasanga",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Manual.dll",
+  "Description": "This plugin enables payments via mobile/phone (stored into database)"
+}
